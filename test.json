@@ -1,0 +1,433 @@
+{
+    "discoverableItems": [],
+    "items": [
+        {
+            "actions": [
+                {
+                    "causes": [
+                        {
+                            "shortDescription": "Started by timer"
+                        }
+                    ]
+                },
+                {
+                    "parameters": [
+                        {
+                            "name": "ALM_Username",
+                            "value": "adubey202"
+                        },
+                        {
+                            "name": "ALM_Password"
+                        },
+                        {
+                            "name": "ALM_TestSet_Path",
+                            "value": "Root/Active/CPQ/Automation Final"
+                        },
+                        {
+                            "name": "testsetID",
+                            "value": "122374"
+                        },
+                        {
+                            "name": "browser",
+                            "value": "CH"
+                        },
+                        {
+                            "name": "test",
+                            "value": "CAT"
+                        },
+                        {
+                            "name": "FailRunRetryCount",
+                            "value": "2"
+                        },
+                        {
+                            "name": "rerun",
+                            "value": "true"
+                        },
+                        {
+                            "name": "PARALLEL",
+                            "value": "methods"
+                        },
+                        {
+                            "name": "THREADCOUNT",
+                            "value": "2"
+                        },
+                        {
+                            "name": "GRID",
+                            "value": "false"
+                        }
+                    ]
+                }
+            ],
+            "blocked": false,
+            "buildable": true,
+            "id": 10776,
+            "inQueueSince": 1511190019148,
+            "params": "\nALM_Username=adubey202\nALM_Password=****\nALM_TestSet_Path=Root/Active/CPQ/Automation Final\ntestsetID=122374\nbrowser=CH\ntest=CAT\nFailRunRetryCount=2\nrerun=true\nPARALLEL=methods\nTHREADCOUNT=2\nGRID=false",
+            "stuck": true,
+            "task": {
+                "name": "CPQ_E2E2_Regression_VDI31",
+                "url": "http://cldsapp-wc-a1p.cable.comcast.com:8080/job/CPQ_E2E2_Regression_VDI31/",
+                "color": "red"
+            },
+            "url": "queue/item/10776/",
+            "why": "Waiting for next available executor on TACGWC-CPQCI09",
+            "buildableStartMilliseconds": 1511190019151,
+            "pending": false
+        },
+        {
+            "actions": [
+                {
+                    "causes": [
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        }
+                    ]
+                },
+                {
+                    "parameters": [
+                        {
+                            "name": "ALM_Username",
+                            "value": "adubey202"
+                        },
+                        {
+                            "name": "ALM_Password"
+                        },
+                        {
+                            "name": "ALM_TestSet_Path",
+                            "value": "Root/Active/SFDC/2017/Automation Final CI"
+                        },
+                        {
+                            "name": "testsetID",
+                            "value": "131074"
+                        },
+                        {
+                            "name": "browser",
+                            "value": "CH"
+                        },
+                        {
+                            "name": "test",
+                            "value": "CAT"
+                        },
+                        {
+                            "name": "FailRunRetryCount",
+                            "value": "2"
+                        },
+                        {
+                            "name": "rerun",
+                            "value": "true"
+                        },
+                        {
+                            "name": "PARALLEL",
+                            "value": "methods"
+                        },
+                        {
+                            "name": "THREADCOUNT",
+                            "value": "2"
+                        },
+                        {
+                            "name": "GRID",
+                            "value": "false"
+                        }
+                    ]
+                }
+            ],
+            "blocked": false,
+            "buildable": true,
+            "id": 6506,
+            "inQueueSince": 1510734612025,
+            "params": "\nALM_Username=adubey202\nALM_Password=****\nALM_TestSet_Path=Root/Active/SFDC/2017/Automation Final CI\ntestsetID=131074\nbrowser=CH\ntest=CAT\nFailRunRetryCount=2\nrerun=true\nPARALLEL=methods\nTHREADCOUNT=2\nGRID=false",
+            "stuck": true,
+            "task": {
+                "name": "SFDC_CATPAR_P1_Set46",
+                "url": "http://cldsapp-wc-a1p.cable.comcast.com:8080/job/SFDC_CATPAR_P1_Set46/",
+                "color": "blue"
+            },
+            "url": "queue/item/6506/",
+            "why": "TACGWC-SFDC11 is offline",
+            "buildableStartMilliseconds": 1510734612029,
+            "pending": false
+        },
+        {
+            "actions": [
+                {
+                    "causes": [
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        }
+                    ]
+                },
+                {
+                    "parameters": [
+                        {
+                            "name": "browser",
+                            "value": "firefox"
+                        },
+                        {
+                            "name": "env",
+                            "value": "UAT"
+                        },
+                        {
+                            "name": "GRID",
+                            "value": "false"
+                        },
+                        {
+                            "name": "testSetID",
+                            "value": "104265"
+                        },
+                        {
+                            "name": "alm_update",
+                            "value": "false"
+                        },
+                        {
+                            "name": "interactive",
+                            "value": "false"
+                        },
+                        {
+                            "name": "PE_RERUN",
+                            "value": "false"
+                        }
+                    ]
+                }
+            ],
+            "blocked": false,
+            "buildable": true,
+            "id": 5294,
+            "inQueueSince": 1510627750513,
+            "params": "\nbrowser=firefox\nenv=UAT\nGRID=false\ntestSetID=104265\nalm_update=false\ninteractive=false\nPE_RERUN=false",
+            "stuck": true,
+            "task": {
+                "name": "CENTURY_QA_BVT_E2E_EDI_Selenium",
+                "url": "http://cldsapp-wc-a1p.cable.comcast.com:8080/job/CENTURY_QA_BVT_E2E_EDI_Selenium/",
+                "color": "red"
+            },
+            "url": "queue/item/5294/",
+            "why": "TACGWC-CENTCI04 is offline",
+            "buildableStartMilliseconds": 1510627750522,
+            "pending": false
+        },
+        {
+            "actions": [
+                {
+                    "causes": [
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        }
+                    ]
+                },
+                {
+                    "parameters": [
+                        {
+                            "name": "ALM_Username",
+                            "value": "nglads200"
+                        },
+                        {
+                            "name": "ALM_Password"
+                        },
+                        {
+                            "name": "ALM_TestSet_Path",
+                            "value": "Root/Active/Commercial/WB Evolution/POR/Wholesale/Century/Release 15.06/JenkinsCI"
+                        },
+                        {
+                            "name": "browser",
+                            "value": "IE"
+                        },
+                        {
+                            "name": "test",
+                            "value": "CAT"
+                        },
+                        {
+                            "name": "FailRunRetryCount",
+                            "value": "1"
+                        },
+                        {
+                            "name": "rerun",
+                            "value": "false"
+                        },
+                        {
+                            "name": "PARALLEL",
+                            "value": "methods"
+                        },
+                        {
+                            "name": "THREADCOUNT",
+                            "value": "1"
+                        },
+                        {
+                            "name": "GRID",
+                            "value": "false"
+                        },
+                        {
+                            "name": "BVT",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "blocked": false,
+            "buildable": true,
+            "id": 5292,
+            "inQueueSince": 1510626550515,
+            "params": "\nALM_Username=nglads200\nALM_Password=****\nALM_TestSet_Path=Root/Active/Commercial/WB Evolution/POR/Wholesale/Century/Release 15.06/JenkinsCI\nbrowser=IE\ntest=CAT\nFailRunRetryCount=1\nrerun=false\nPARALLEL=methods\nTHREADCOUNT=1\nGRID=false\nBVT=Yes",
+            "stuck": true,
+            "task": {
+                "name": "CENTURY_QA_WholesaleBVTENNINew",
+                "url": "http://cldsapp-wc-a1p.cable.comcast.com:8080/job/CENTURY_QA_WholesaleBVTENNINew/",
+                "color": "red"
+            },
+            "url": "queue/item/5292/",
+            "why": "TACGWC-WHSALE13 is offline",
+            "buildableStartMilliseconds": 1510626550534,
+            "pending": false
+        },
+        {
+            "actions": [
+                {
+                    "causes": [
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        },
+                        {
+                            "shortDescription": "Started by timer"
+                        }
+                    ]
+                },
+                {
+                    "parameters": [
+                        {
+                            "name": "ALM_Username",
+                            "value": "nglads200"
+                        },
+                        {
+                            "name": "ALM_Password"
+                        },
+                        {
+                            "name": "ALM_TestSet_Path",
+                            "value": "Root/Active/Commercial/WB Evolution/Century/POR/Wholesale/Century/Release 15.06/JenkinsCI"
+                        },
+                        {
+                            "name": "testsetID",
+                            "value": "90132"
+                        },
+                        {
+                            "name": "browser",
+                            "value": "IE"
+                        },
+                        {
+                            "name": "test",
+                            "value": "CAT"
+                        },
+                        {
+                            "name": "FailRunRetryCount",
+                            "value": "1"
+                        },
+                        {
+                            "name": "rerun",
+                            "value": "false"
+                        },
+                        {
+                            "name": "PARALLEL",
+                            "value": "methods"
+                        },
+                        {
+                            "name": "THREADCOUNT",
+                            "value": "1"
+                        },
+                        {
+                            "name": "GRID",
+                            "value": "true"
+                        }
+                    ]
+                }
+            ],
+            "blocked": false,
+            "buildable": true,
+            "id": 5273,
+            "inQueueSince": 1510609330514,
+            "params": "\nALM_Username=nglads200\nALM_Password=****\nALM_TestSet_Path=Root/Active/Commercial/WB Evolution/Century/POR/Wholesale/Century/Release 15.06/JenkinsCI\ntestsetID=90132\nbrowser=IE\ntest=CAT\nFailRunRetryCount=1\nrerun=false\nPARALLEL=methods\nTHREADCOUNT=1\nGRID=true",
+            "stuck": true,
+            "task": {
+                "name": "CENTURY_QA_EPLNewFiber",
+                "url": "http://cldsapp-wc-a1p.cable.comcast.com:8080/job/CENTURY_QA_EPLNewFiber/",
+                "color": "red"
+            },
+            "url": "queue/item/5273/",
+            "why": "TACGWC-WHSALE13 is offline",
+            "buildableStartMilliseconds": 1510609330523,
+            "pending": false
+        }
+    ]
+}
